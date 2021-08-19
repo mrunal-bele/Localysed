@@ -28,6 +28,6 @@ The goal of the project is to provide the user with a set of questions about pre
 * Others : Mapbox Geocoding API, MaterialUI, Geoapify API
 
 ## Important Links
-* Complete Source Code: https://github.com/sanketdofe/localysed
+* Complete Source Code: https://github.com/mrunal-bele/Localysed
 * Project Report and Data: https://drive.google.com/drive/folders/1PoaxQGU8w69Npdpd8UNjbdh79_CaJl33?usp=sharing
 * Scraped Data: https://drive.google.com/drive/folders/1rKBM-DQo3a0f8SSZDH6tFwm0YDIYlbP9
